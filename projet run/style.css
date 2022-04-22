@@ -178,6 +178,9 @@ input{
     .run .text{
         margin: 0 5px 30px;
     }
+    .run::after{
+        display: none;
+    }
     .text{
         margin: 0 5px;
         line-height: 150%;
