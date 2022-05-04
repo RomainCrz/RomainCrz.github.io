@@ -11,3 +11,4 @@ Intégrations en Saas :
 
 JavaScript : 
 -  [Jeu Bulle](https://romaincrz.github.io/Jeu-Bulle/)
+-  [Générateur de MDP](https://romaincrz.github.io/Password-Generator/)
