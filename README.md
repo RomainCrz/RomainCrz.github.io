@@ -12,3 +12,5 @@ Intégrations en Saas :
 JavaScript : 
 -  [Jeu Bulle](https://romaincrz.github.io/Jeu-Bulle/)
 -  [Générateur de MDP](https://romaincrz.github.io/Password-Generator/)
+-  [Form checker](https://romaincrz.github.io/Form-checker/) Apprentissage du contrôle des données sur formulaire
+-  [Todo List](https://romaincrz.github.io/Todo-List/)
