@@ -14,3 +14,4 @@ JavaScript :
 -  [Générateur de MDP](https://romaincrz.github.io/Password-Generator/)
 -  [Form checker](https://romaincrz.github.io/Form-checker/) Apprentissage du contrôle des données sur formulaire
 -  [Todo List](https://romaincrz.github.io/Todo-List/)
+-  [Exercice sur les dates](https://romaincrz.github.io/Exercice-Date/)
