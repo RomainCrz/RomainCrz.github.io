@@ -15,3 +15,5 @@ JavaScript :
 -  [Form checker](https://romaincrz.github.io/Form-checker/) Apprentissage du contrôle des données sur formulaire
 -  [Todo List](https://romaincrz.github.io/Todo-List/)
 -  [Exercice sur les dates](https://romaincrz.github.io/Exercice-Date/)
+-  [Puissance 4](https://romaincrz.github.io/Puissance-4/)
+-  
