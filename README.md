@@ -18,3 +18,4 @@ JavaScript :
 -  [Puissance 4](https://romaincrz.github.io/Puissance-4/)
 -  [Casse-Brique](https://romaincrz.github.io/Casse-brique/)
 -  [Country-App](https://romaincrz.github.io/Country-App/)
+-  [Snake](https://romaincrz.github.io/Snake/)
