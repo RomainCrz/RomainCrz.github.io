@@ -19,3 +19,12 @@ JavaScript :
 -  [Casse-Brique](https://romaincrz.github.io/Casse-brique/)
 -  [Country-App](https://romaincrz.github.io/Country-App/)
 -  [Snake](https://romaincrz.github.io/Snake/)
+-  [Flappy Bird](https://romaincrz.github.io/Flappy-Bird/)
+-  [Quizz App](https://romaincrz.github.io/Quizz-App/)
+
+React :
+- [React Meal](https://react-meal-by-romain.netlify.app/)
+- [React Country](https://react-country-romain.netlify.app/)
+
+
+
